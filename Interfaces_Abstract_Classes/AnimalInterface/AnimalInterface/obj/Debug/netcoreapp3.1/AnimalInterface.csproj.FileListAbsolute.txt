@@ -1,0 +1,13 @@
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.exe
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.deps.json
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.runtimeconfig.json
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.runtimeconfig.dev.json
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.dll
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\bin\Debug\netcoreapp3.1\AnimalInterface.pdb
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.csprojAssemblyReference.cache
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.AssemblyInfoInputs.cache
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.AssemblyInfo.cs
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.csproj.CoreCompileInputs.cache
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.dll
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.pdb
+C:\Users\wendi\source\repos\AnimalInterface\AnimalInterface\obj\Debug\netcoreapp3.1\AnimalInterface.genruntimeconfig.cache

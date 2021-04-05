@@ -1,0 +1,13 @@
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.exe
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.deps.json
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.runtimeconfig.json
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.runtimeconfig.dev.json
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.dll
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\bin\Debug\netcoreapp3.1\ArrayExercises.pdb
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.csprojAssemblyReference.cache
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.AssemblyInfoInputs.cache
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.AssemblyInfo.cs
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.dll
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.pdb
+C:\Users\wendi\source\repos\ArrayExercises\ArrayExercises\obj\Debug\netcoreapp3.1\ArrayExercises.genruntimeconfig.cache

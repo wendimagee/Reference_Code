@@ -1,0 +1,13 @@
+﻿@model List<Country>
+
+<h2>@Model[0].Continent</h2>
+
+@foreach (Country country in Model)
+{
+    <ul>
+        <li>Name: @country.Name </li>
+    </ul>
+
+}
+
+

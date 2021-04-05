@@ -1,0 +1,24 @@
+﻿@model List<Country>
+@*3.Countries view will display the following:
+    a.The names of all the countries in the database.
+    b.The associated continent of each country displayed next to the name.
+    c.The names and countries must be displayed in an HTML unordered list like the
+    following:
+    ● China - Asia
+    ● India - Asia
+    ● USA - North America
+    d.A form that allows the user to type in a continent and submit the form to the CountriesByContinent ActionResult.
+*@
+@foreach (Country country in Model)
+{
+    <ul>
+        <li>Name: @country.Name </li>
+        <li>Continent: @country.Continent</li>
+    </ul>
+}
+
+<form asp-action="CountriesByContinent" asp-controller="Home">
+    <label>Search by Continent</label>
+    <input type="text" name="ContinentName"/>
+    <input type="submit" />
+</form>

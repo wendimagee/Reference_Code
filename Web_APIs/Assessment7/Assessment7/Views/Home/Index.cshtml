@@ -1,0 +1,9 @@
+﻿@model List<Result>
+
+
+@foreach (Result animal in Model)
+{
+    <h3>Name: @animal.name</h3>
+    <p>Weight: @animal.weight</p>
+    <p>Species: @animal.species.name</p>
+}

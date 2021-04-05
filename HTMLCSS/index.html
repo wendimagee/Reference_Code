@@ -1,0 +1,48 @@
+<html>
+<!--2 main sections of html: 
+    1. Head - dictates settings and any files that need to be imported
+    2. Body - handles your content: text images links etc-->
+<head>
+    <title>Uncle Claudius' Totally Legit Website</title>
+    <link href="main.css" rel="stylesheet"></link>
+    <script src="Lab2.js"></script>
+</head>
+<body>
+
+    <h2 class="greenFont center"> Uncle Claudius' Totally Legit Website</h2>
+    <p>Uncle Claudius has a long history of working with children!</p>
+    <p>He has never lost a single child in his care!</p>
+    <p>Uncle C is your man for child-watching like activities!</p>
+
+    <h2 id="HeaderHomePage">Reasons to hire Uncle Claudius!</h2>
+    <ul class="center">
+            <li> Snappy Dresser</li>
+            <li> He's not blind</li>
+            <li> Children love him</li>
+            <li> No major felonies on record</li>
+            <li> Good at feeding</li>
+    </ul>
+    <div class="row">
+        <div class="column">
+            <img src = "UncleClaudius.jpg"  />
+        </div>
+        <div class="column">
+            <img src = "Van.jpg" width="90%"  />
+        </div>
+        <script>
+            //Lab2();
+        </script>
+        <button onclick="Lab2()">Run Lab2</button>
+        <form>
+            <p>User name</p>
+            <input id="Name" type="text" required/>
+            <p>Password</p>
+            <input type="password" required/>
+            <input type="submit" />
+        </form>
+        <form>
+            <p>Height: </p>
+            <input type="number" id="Height" />
+        </form>
+</body>
+</html>

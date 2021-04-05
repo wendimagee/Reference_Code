@@ -1,0 +1,13 @@
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.exe
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.deps.json
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.runtimeconfig.json
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.runtimeconfig.dev.json
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.dll
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\bin\Debug\netcoreapp3.1\Assessment3a.pdb
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.csprojAssemblyReference.cache
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.AssemblyInfoInputs.cache
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.AssemblyInfo.cs
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.csproj.CoreCompileInputs.cache
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.dll
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.pdb
+C:\Users\wendi\source\repos\assessment-3-wendimagee\Assessment3\obj\Debug\netcoreapp3.1\Assessment3a.genruntimeconfig.cache
